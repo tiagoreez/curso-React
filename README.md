@@ -1,2 +1,2 @@
 # curso-React
-Curso de platzi de Reac.js
+Curso de platzi de React.js
